@@ -23,7 +23,7 @@ pip install -r requirements.txt
 You may use the dataset included into this repository ('example'), for demonstration purposes only, as follows:
 
 ```
-.\mulan example/data/n0.1_synt1.txt example/data/synt1.txt example/data/synt1_seed_L1.txt example/data/synt1_seed_L2.txt example/output
+./mulan example/data/n0.1_synt1.txt example/data/synt1.txt example/data/synt1_seed_L1.txt example/data/synt1_seed_L2.txt example/output
 ```
 
 The dataset consists of two multilayer networks consisting of:
