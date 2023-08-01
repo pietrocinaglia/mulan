@@ -1,0 +1,8 @@
+Source: (example/data/n0.1_synt1.txt) 1901 nodes, 2075 edges.
+Target: (example/data/synt1.txt) 2000 nodes, 2298 edges.
+
+No. of communities (based on Louvain): 76
+Modularity (based on Louvain): 0.8686336100877188
+
+Runtime (only alignment): 0:00:00.316345
+Runtime (total): 0:00:00.365879

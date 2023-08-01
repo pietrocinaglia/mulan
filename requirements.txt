@@ -1,0 +1,6 @@
+infomap==2.7.1
+matplotlib==3.7.2
+networkx==2.8.6
+numpy==1.23.2
+pandas==2.0.3
+Unipath==1.1
